@@ -5929,11 +5929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\BusinessRuleEngineTest.csproj",
+      "projectUniqueName": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\BusinessRuleEngineTest.csproj",
       "projectName": "BusinessRuleEngineTest",
-      "projectPath": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\BusinessRuleEngineTest.csproj",
+      "projectPath": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\BusinessRuleEngineTest.csproj",
       "packagesPath": "C:\\Users\\11023974\\.nuget\\packages\\",
-      "outputPath": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\obj\\",
+      "outputPath": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngineTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5952,8 +5952,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {
-              "projectPath": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj"
+            "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {
+              "projectPath": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj"
             }
           }
         }

@@ -4,36 +4,28 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace BusinessRuleEngineTest
 {
     [TestClass]
-    public class UnitTest1
+    public class RuleEngineTest
     {
         [TestMethod]
         public void CheckRuleAddition()
         {
-            IRule rule = new RulesList();
-            rule.AddRule("newOrder", "payment", "make payment;send email");
-            Assert.AreEqual("newOrder-payment-make payment;send email", rule.GetRule(0));
+            RulesEngine ruleEngine = new RulesEngine("newOrder");
+            ruleEngine.AddRule("payment", "make payment;send email");
+            Assert.AreEqual("newOrder-payment-make payment;send email", ruleEngine.GetRule("newOrder"));
         }
 
         [TestMethod]
         public void CheckRuleDoesNotExist()
         {
-            IRule rule = new RulesList();
-            string ruleExists = rule.GetRule("negativeScenario");
-            Assert.IsNull(ruleExists);
-        }
-
-        [TestMethod]
-        public void CheckRuleExist()
-        {
-            IRule rule = new RulesList();
-            string ruleExists = rule.GetRule("newOrder");
-            Assert.IsNotNull(rule);
+            RulesEngine ruleEngine = new RulesEngine("ruleDoesNotExist");
+            string rule = ruleEngine.GetRule("ruleDoesNotExist");
+            Assert.IsNull(rule);
         }
 
         [TestMethod]
         public void CheckExistingRuleApplication()
         {
-            RulesEngine ruleEngine = new RulesEngine("newOrder");
+            RulesEngine ruleEngine = new RulesEngine("PhysicalProduct");
             bool ruleApplied = ruleEngine.ApplyRule();
             Assert.IsTrue(ruleApplied);
         }

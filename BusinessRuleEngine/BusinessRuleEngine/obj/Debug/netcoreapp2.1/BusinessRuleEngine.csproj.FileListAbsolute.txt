@@ -1,3 +1,17 @@
 D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.csproj.CoreCompileInputs.cache
 D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfoInputs.cache
 D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfo.cs
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp2.1\BusinessRuleEngine.deps.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp2.1\BusinessRuleEngine.runtimeconfig.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp2.1\BusinessRuleEngine.runtimeconfig.dev.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp2.1\BusinessRuleEngine.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp2.1\BusinessRuleEngine.pdb
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.RazorAssemblyInfo.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.RazorAssemblyInfo.cs
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfo.cs
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.RazorTargetAssemblyInfo.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.pdb

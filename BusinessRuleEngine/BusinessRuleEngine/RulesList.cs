@@ -14,7 +14,7 @@ namespace BusinessRuleEngine
 
         public void AddRule(string memberName, string oprator, string targetValue)
         {
-            this.listOfRules.Add(memberName + "-" + oprator + "-" + targetValue);
+             this.listOfRules.Add(memberName + "-" + oprator + "-" + targetValue);
         }
 
         public string GetRule(string memberName)

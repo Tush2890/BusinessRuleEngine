@@ -5,6 +5,7 @@ namespace BusinessRuleEngine
     public class RulesEngine
     {
         string orderType = string.Empty;
+        RulesList listOfRules = new RulesList();
 
         public RulesEngine(string orderType)
         {
@@ -13,8 +14,7 @@ namespace BusinessRuleEngine
 
         public bool ApplyRule()
         {
-            RulesList listOfRules = new RulesList();
-            string rule = listOfRules.GetRule(this.orderType);
+            string rule = this.GetRule(this.orderType);
             if (rule == null)
             {
                 Console.Write("Rule does not exist.");
@@ -27,10 +27,15 @@ namespace BusinessRuleEngine
             }
         }
 
-        public void AddRule(string memberName, string oprator, string targetValue)
+        public void AddRule(string oprator, string targetValue)
         {
-            RulesList listOfRules = new RulesList();
-            listOfRules.AddRule(memberName, oprator, targetValue);
+            listOfRules.AddRule(this.orderType, oprator, targetValue);
+        }
+
+        public string GetRule(string orderType)
+        {
+            string rule = listOfRules.GetRule(orderType);
+            return rule;
         }
     }
 }

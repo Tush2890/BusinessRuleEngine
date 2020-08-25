@@ -1,0 +1,17 @@
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngineTest.deps.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngineTest.runtimeconfig.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngineTest.runtimeconfig.dev.json
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngineTest.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngineTest.pdb
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngine.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\bin\Debug\netcoreapp2.1\BusinessRuleEngine.pdb
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.csprojAssemblyReference.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.csproj.CoreCompileInputs.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.AssemblyInfoInputs.cache
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.AssemblyInfo.cs
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.csproj.CopyComplete
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.dll
+D:\BusinessRuleEngine\BusinessRuleEngine\BusinessRuleEngineTest\obj\Debug\netcoreapp2.1\BusinessRuleEngineTest.pdb

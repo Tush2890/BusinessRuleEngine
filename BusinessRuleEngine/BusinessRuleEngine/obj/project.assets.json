@@ -11913,11 +11913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+      "projectUniqueName": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
       "projectName": "BusinessRuleEngine",
-      "projectPath": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+      "projectPath": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
       "packagesPath": "C:\\Users\\11023974\\.nuget\\packages\\",
-      "outputPath": "D:\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine\\obj\\",
+      "outputPath": "D:\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

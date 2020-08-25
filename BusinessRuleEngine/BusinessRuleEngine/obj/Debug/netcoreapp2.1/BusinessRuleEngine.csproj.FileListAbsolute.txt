@@ -1,0 +1,3 @@
+D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.csproj.CoreCompileInputs.cache
+D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+D:\BusinessRulesEngine\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp2.1\BusinessRuleEngine.AssemblyInfo.cs
